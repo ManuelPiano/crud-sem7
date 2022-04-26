@@ -1,6 +1,8 @@
-# crud-sem7
-CRUD JAVA CONSOLE MYSQL
-(farina lisbeth gavidia cortez ) 
-(javier alexander gamez lainez  ) 
-(manuel alfredo alvarado rivera  ) 
-(jennifer guadalupe surio ramirez)
+<h1> crud-sem7</h1>
+***CRUD JAVA CONSOLE MYSQL*** <br>
+✅**farina lisbeth gavidia cortez** <br>
+✅**javier alexander gamez lainez** <br>
+✅**manuel alfredo alvarado rivera** <br>
+✅**jennifer guadalupe surio ramirez**<br>
+
+![Itca logo](https://www.itca.edu.sv/wp-content/themes/elaniin-itca/images/logoColor.png)
